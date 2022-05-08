@@ -1,2 +1,2 @@
 # express-template
-use express for backend server
+use express and typescript for backend server
